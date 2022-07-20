@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=300&section=header&text=JooYeon Choi &fontSize=60&fontAlignY=40&desc=Hi there!"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,4&height=300&section=header&text=JooYeon Choi &fontSize=60&fontAlignY=40&desc=Hi there!"/>
 
 
 <p><b> 🖥 Studying computer science in south korea ✏ <b></p>
