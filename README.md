@@ -5,7 +5,7 @@
 
 
 <p><b> 🖥 Studying computer science in south korea ✏ <b></p>
-<p><b>  I love sweets 💖</b></p><br>
+
 
 <h2> Tech stack </h2><br>
 
