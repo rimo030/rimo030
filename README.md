@@ -1,8 +1,9 @@
 ## Hello I'm Rimo!
 
 ### Contact Me ✌️
-[![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:munak.dev@gmail.com)
+[![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://rimo030.notion.site/RIMO-17bbba1355f380c7a90ecec7991ebe74?pvs=4)
 [![](https://img.shields.io/badge/Tistory-F16521?style=flat-square&logo=tistory&logoColor=white)](https://munak.tistory.com/)
+[![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:munak.dev@gmail.com)
 
 
 ### Tech Stack ⭐
@@ -11,7 +12,8 @@
 [![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)]()
 [![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white)]()
-[![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonAWS&logoColor=white)]()
+[![](https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
 [![](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)]()
 
